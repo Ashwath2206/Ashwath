@@ -41,21 +41,22 @@ Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Ass
 
 ### 📕 Latest Projects
 
-- [TARGET CASE STUDY](https://jayasimman-p-k.github.io/Jc-portfolio/)
-- [NETFLIX CASE STUDY](https://jayasimman-p-k.github.io/Doodler-Jumping-Game/)
-- [AEROFIT CASE STUDY](https://jayasimman-p-k.github.io/Java-MCQ-interview-prepation-app/)
-- [WALMART CASE STUDY](https://jayasimman-p-k.github.io/Analog-clock/)
-- [CASHFREE PAYMENTS - CHURN ANALYSIS](https://jayasimman-p-k.github.io/KFC-Landing-Page/)
-- [STOCK MARKET PREDICTION](https://jayasimman-p-k.github.io/KFC-Landing-Page/)
-- [MUTUAL FUND RATING PREDICTION](https://jayasimman-p-k.github.io/KFC-Landing-Page/)
-- [GOOGLE STORE APP RATING PREDICTION](https://jayasimman-p-k.github.io/KFC-Landing-Page/)
-- [HEALTH CARE INSURANCE - EDA](https://jayasimman-p-k.github.io/KFC-Landing-Page/)
-- [AUTO INSURANCE ANALYSIS](https://jayasimman-p-k.github.io/KFC-Landing-Page/)
-- [LALIGA DATA ANALYSIS](https://jayasimman-p-k.github.io/KFC-Landing-Page/)
-- [E COMMERCE ANALYSIS](https://jayasimman-p-k.github.io/KFC-Landing-Page/)
-- [FLIPKART ANALYTICS](https://jayasimman-p-k.github.io/KFC-Landing-Page/)
-- [INVENTORY DATA ANALYSIS](https://jayasimman-p-k.github.io/KFC-Landing-Page/)
-- [MEESHO ASSESSMENT](https://jayasimman-p-k.github.io/KFC-Landing-Page/)
+- [TARGET CASE STUDY]()
+- [NETFLIX CASE STUDY]()
+- [AEROFIT CASE STUDY]()
+- [WALMART CASE STUDY]()
+- [CREDIT_RISK_MODELLING]()
+- [CASHFREE PAYMENTS - CHURN ANALYSIS]()
+- [STOCK MARKET PREDICTION]()
+- [MUTUAL FUND RATING PREDICTION]()
+- [GOOGLE STORE APP RATING PREDICTION]()
+- [HEALTH CARE INSURANCE - EDA]()
+- [AUTO INSURANCE ANALYSIS]()
+- [LALIGA DATA ANALYSIS]()
+- [E COMMERCE ANALYSIS]()
+- [FLIPKART ANALYTICS]()
+- [INVENTORY DATA ANALYSIS]()
+- [MEESHO ASSESSMENT]()
 
 ---
 
